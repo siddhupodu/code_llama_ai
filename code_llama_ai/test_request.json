@@ -1,0 +1,9 @@
+{
+    "query": "Generate a Python function to implement a binary search algorithm",
+    "requirements": [
+        "The function must handle both ascending and descending sorted arrays",
+        "Should include type hints for better code clarity",
+        "Must include edge cases handling",
+        "Should have detailed docstring"
+    ]
+} 
